@@ -1,4 +1,4 @@
-# Aplikasi sederhana manajemen surat dengan PHP MySQLi
+# Aplikasi sederhana 
 
 Aplikasi ini untuk mengelola pencatatan surat masuk dan surat keluar (disposisi). Dilengkapi beberapa fitur, antara lain :
 
@@ -18,8 +18,7 @@ Untuk menggunakan aplikasi ini silakan lakukan beberapa konfigurasi terlebih dah
 - Konfigurasi kode klasifikasi surat: buka file **kode.php** lalu setting databasenya.
 - Konfigurasi fitur backup database: buka file **backup.php** lalu setting databasenya.
 - Konfigurasi fitur restore database: buka file **restore.php** lalu setting databasenya.
+ gunakan browser untuk mengaksesnya
 
-Untuk tampilan terbaik, gunakan browser Google Chrome versi terbaru.
-
-Inspired by GOOGLE
-
+Inspired by GOOGLE                                                                                                                  
+im just an amateur 
